@@ -1,0 +1,3 @@
+$ patch < https://www.starwars.com/video/making-episode-iv-c-3po
+patch file starwars.b
+
